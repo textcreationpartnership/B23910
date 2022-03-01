@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the dissection of His Highness William Duke of Glocester drawn up by Doctor H. and sign'd by him, and by the surgeons ; from the original letter, that was sent over to His Majesty in Holland.</title>
+            <author>Hannes, Edward, Sir, d. 1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23910</idno>
+            <idno type="STC">Wing H657</idno>
+            <idno type="EEBO-CITATION">18283541</idno>
+            <idno type="OCLC">ocm 18283541</idno>
+            <idno type="VID">206468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23910)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206468)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1635:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the dissection of His Highness William Duke of Glocester drawn up by Doctor H. and sign'd by him, and by the surgeons ; from the original letter, that was sent over to His Majesty in Holland.</title>
+                  <author>Hannes, Edward, Sir, d. 1710.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Nutt ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Signed Windsor Castle, July 31. 1700. Edward Hannes M.D. Charles Bernard. Edward Green. William Cowper."--P. 5.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William, --  Duke of Gloucester, 1689-1700.</term>
+               <term>Autopsy --  England.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206468:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT OF THE DISSECTION OF HIS HIGHNESS WILLIAM Duke of <hi>GLOCESTER.</hi>
+            </p>
+            <p>Drawn up by Doctor <hi>H.</hi> and Sign'd by Him, and by the Surgeons.</p>
+            <p>From the Original Letter, that was ſent over to his Majeſty in <hi>Holland.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Nutt,</hi> near <hi>Stationers</hi>-Hall, 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_a_post_mortem">
+            <pb facs="tcp:206468:2"/>
+            <pb n="1" facs="tcp:206468:2"/>
+            <head>AN ACCOUNT OF THE DISSECTION OF HIS HIGHNESS <hi>WILLIAM</hi> Duke of <hi>GLOCESTER.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">U</seg>Pon the Death of his Highneſs</hi> William <hi>Duke of</hi> Gloceſter, <hi>which happened on</hi> Monday, July <hi>the Twenty Ninth, about Midnight, The Right Honourable the Earl of</hi> Marleborough, <hi>One of their Excellencies the Lords Juſtices of</hi>
+               <pb n="2" facs="tcp:206468:3"/>England, <hi>and Governour to His late Highneſs was pleaſed to give order, That the Body ſhould be Opened.</hi>
+            </p>
+            <p>
+               <hi>Accordingly the Surgeons appointed by His Lordſhip, whoſe names are ſubſcribed, in the preſence of Doctor</hi> Hannes, <hi>who was command<g ref="char:EOLhyphen"/>ed to aſſiſt at the Operation, and of ſeveral other Spectators, made the Diſſection; and, after<g ref="char:EOLhyphen"/>wards, jointly with the Doctor, gave in the following Report of it on</hi> Wedneſday, July <hi>the Thirty Firſt,</hi> 1700.</p>
+            <p n="1">1.
+<note place="margin">Surface of the Body.</note> On inſpection of the outward Surface of the Dukes Body; His Head, Cheſt, Ab<g ref="char:EOLhyphen"/>domen and Arms appear'd tainted and livid, beyond what is uſual: His Thighs and Leggs not much altered from their proper colour.</p>
+            <p n="2">2. The Abdomen was firſt opened; and theſe Obſervations made upon the Parts Contained.</p>
+            <p>The Omentum was found as is natural.
+<note place="margin">Belly.</note>
+            </p>
+            <p>The Gutts, from the Rectum, incluſively, upwards to the Duodenum, had the common appearances; excepting only, that a few in<g ref="char:EOLhyphen"/>flammatory Spots were ſeen diſpers'd upon the Small Gutts; and, that the Plexus Glandulares of the ſame Gutts were become Florid, and therefore more conſpicu<g ref="char:EOLhyphen"/>ous, than is uſual.</p>
+            <pb n="3" facs="tcp:206468:3"/>
+            <p> The Duodenum and Stomach were highly inflamed; eſpecially, the Stomach; which had in its Cavity, Wind, and a ſmall quan<g ref="char:EOLhyphen"/>tity of Liquor.</p>
+            <p>In the Pancreas, Spleen, Liver, and Bladder of Gall was nothing remarkable: Only the Spleen and Liver were more than ordinary Livid.</p>
+            <p>The Kidneys carried a colour deeper than is common, beſides which, they were not no<g ref="char:EOLhyphen"/>ted to have any thing Preternatural: As nei<g ref="char:EOLhyphen"/>ther had the Glandulae Renales, nor the Ure<g ref="char:EOLhyphen"/>teres, nor the Urinary Bladder, nor the Urine expreſs'd from the Bladder.</p>
+            <p n="3">3. Next after the Abdomen, the Thorax,
+<note place="margin">Cheſt.</note> or Cheſt was examined.</p>
+            <p>Here, the Pleura was inflamed to the moſt intenſe degree.</p>
+            <p>The Diaphragm, and Mediaſtinum, and Pericardium were thought not to differ from the conſtitution given 'em by Nature; except<g ref="char:EOLhyphen"/>ing only, that the Diaphragm was ſomething inflamed.</p>
+            <p>The Humor of the Pericardium was red<g ref="char:EOLhyphen"/>diſh; not without a mixture of Blood. And even the Thorax and Abdomen were judged to have more Blood in their Cavity, than
+<pb n="4" facs="tcp:206468:4"/>could well proceed from the mouths of the Veſſels cut aſunder by the Knife at the time the reſpective Venters were laid open.</p>
+            <p>The Heart was extremely Flaccid and weak in its Texture: The Right Ventricle had ve<g ref="char:EOLhyphen"/>ry little Blood, and the Left was altogether Empty.</p>
+            <p>The Lungs on both ſides were filled with Blood to the height of an Inflammation.</p>
+            <p n="4">4.
+<note place="margin">Neck.</note> The Neck was Swoll'n: And upon Diſſection the incloſed Parts appear'd ſuch, as they are obſerved in Bodies ſtrangled.</p>
+            <p>At the place where the Jugulars ariſe a<g ref="char:EOLhyphen"/>bove the Claviculae, the Inflammation ap<g ref="char:EOLhyphen"/>proach'd very near to a Mortification.</p>
+            <p>The Glandulae Thyreoideae were almoſt black with the contain'd Blood: and being put into Scales were found above Five Drachms in weight.</p>
+            <p>The Gulet was much Inflamed; the Wind<g ref="char:EOLhyphen"/>pipe alſo was affected in the ſame kind, eſpecially the upper part of it call'd the Larynx.</p>
+            <p>In the Larynx the Membranes that join the Cartilages Cricoides and Thyreoides were ve<g ref="char:EOLhyphen"/>ry dark with the Inflammation.</p>
+            <pb n="5" facs="tcp:206468:4"/>
+            <p> The Membrane that lines the Epiglottis (at the root of the Tongue) was alſo Infla<g ref="char:EOLhyphen"/>med: inſomuch that the Glandulae Miliares of it, which are ſcarce viſible at other times, were here much diſtended and very conſpicuous.</p>
+            <p n="5">5.
+<note place="margin">Throat.</note> In the Mouth, we found the Palate in<g ref="char:EOLhyphen"/>flamed; as alſo the Uvula, the Membrane of which was ſwell'd.</p>
+            <p>The Almonds of the Ear (in the Throat) were ſwell'd; and had in them Purulent mat<g ref="char:EOLhyphen"/>ter: There being preſs'd out of one of 'em as much Corruption, as fill'd a Tea-ſpoon.</p>
+            <p n="6">6. Laſt of all, The Head was opened;
+<note place="margin">Head.</note> and out of the Firſt and Second Ventricle of the Cerebrum were taken about four Ounces and an Half of a Lympid Humor.</p>
+            <p>In this Region nothing, beſides, was found particular, or different from the natural ſtate of it.</p>
+            <closer>
+               <dateline>Signed <hi>Windſor</hi> Caſtle, <date>July 31. 1700.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Edward Hannes</hi> M.D.</item>
+                     <item>
+                        <hi>Charles Bernard.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Green.</hi>
+                     </item>
+                     <item>
+                        <hi>William Cowper.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
